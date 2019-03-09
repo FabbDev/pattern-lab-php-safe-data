@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "FabbDev\\SafeData": "src/"
+      "FabbDev\\SafeData\\": "src/"
     }
   },
   "require": {
